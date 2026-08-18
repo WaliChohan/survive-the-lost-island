@@ -166,7 +166,7 @@ pygame
 ![Inventory](screenshots/inventory.png)
 
 ### Game-Over
-![Game-Over](screenshots/game-over-screen.png)
+![Game-Over-Screen](screenshots/game-over-screen.png)
 
 
 ## Technical Highlights
