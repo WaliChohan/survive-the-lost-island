@@ -143,7 +143,7 @@ To set up manually:
 ```bash
 git clone <your-repo-url>
 cd survive-the-lost-island
-pip install pygame
+pip install -r requirements.txt
 python "main code.py"
 ```
 
@@ -156,8 +156,6 @@ pygame
 
 ## Game Screenshots
 
-## Screenshots
-
 ### Main Menu
 ![Main Menu](screenshots/main-menu.png)
 
@@ -165,7 +163,7 @@ pygame
 ![Gameplay](screenshots/gameplay.png)
 
 ### Game-Over
-![Game-Over(screenshots/game-over screen.png)
+![Game-Over](screenshots/game-over-screen.png)
 
 ### Inventory
 ![Inventory](screenshots/inventory.png)
@@ -194,7 +192,8 @@ pygame
 ## Author
 
 Wali Chohan
-Portfolio project built to demonstrate game development fundamentals in Python/Pygame — including sprite animation, collision systems, basic AI, and UI/state management.
+Computer Science student building software projects with Python and exploring game development, AI, and software engineering. This project demonstrates practical experience with Pygame, object-oriented programming, sprite animation, collision detection, enemy AI, combat systems, and UI design.
+
 
 
 ---
