@@ -191,7 +191,7 @@ pygame
 
 ## Author
 
-Wali Chohan
+**Wali Chohan**
 Computer Science student building software projects with Python and exploring game development, AI, and software engineering. This project demonstrates practical experience with Pygame, object-oriented programming, sprite animation, collision detection, enemy AI, combat systems, and UI design.
 
 
