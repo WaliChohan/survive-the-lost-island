@@ -128,32 +128,21 @@ No other third-party libraries are used.
 
 > The game will still launch and run without any files in `aset/` — missing images become colored placeholder blocks and missing sounds fall back to generated tones, so it's safe to test before adding final art/audio.
 
----
-
 ## Installation
 
-No `requirements.txt` was confirmed to exist in this project. Based on the imports in the code, the only external dependency is:
+To set up the game:
+
+1. Clone the repository:
 
 ```
-pygame
-```
-
-To set up manually:
-
-```bash
-git clone <your-repo-url>
+git clone https://github.com/WaliChohan/survive-the-lost-island.git
 cd survive-the-lost-island
+
 pip install -r requirements.txt
+
+run the game
 python "main code.py"
 ```
-
-If you'd like, create a `requirements.txt` containing:
-```
-pygame
-```
-
----
-
 ## Game Screenshots
 
 ### Main Menu
