@@ -162,11 +162,12 @@ pygame
 ### Gameplay
 ![Gameplay](screenshots/gameplay.png)
 
+### Inventory
+![Inventory](screenshots/inventory.png)
+
 ### Game-Over
 ![Game-Over](screenshots/game-over-screen.png)
 
-### Inventory
-![Inventory](screenshots/inventory.png)
 
 ## Technical Highlights
 
